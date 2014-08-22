@@ -6,6 +6,9 @@ There's a frood who really knows where his towel is.
 1.0a10 (unreleased)
 ^^^^^^^^^^^^^^^^^^^
 
+- A new behavior was included to add the possibility of having a background image on the default view of the item.
+  [hvelarde]
+
 - Fix AttributeError caused by editing a basic tile and not populating the
   image field.
   [enfold-josh]
